@@ -6,6 +6,8 @@ ollama serve
 
 name of model in ollama list
 
+in js file
+
 
 log edge://extensions/
 
