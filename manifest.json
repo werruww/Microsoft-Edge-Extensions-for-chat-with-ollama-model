@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Ollama API Extension",
+  "version": "1.0",
+  "description": "اكستنشن بسيط للتواصل مع Ollama API",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
