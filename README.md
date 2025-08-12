@@ -6,7 +6,7 @@ ollama serve
 
 name of model in ollama list
 
-in js file
+in popup.js
 
 
 log edge://extensions/
